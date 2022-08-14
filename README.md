@@ -1,15 +1,18 @@
-# Audio and Video Demo
+# Audio and Video Demo.
 
-Demo which shows how to playback and capture audio / video within an Android application. Check out the corresponding [Audio / Video Cliffnotes](http://guides.thecodepath.com/android/Video-and-Audio-Playback-and-Recording) for a more detailed tutorial of how this works.
+This is a demo application which playbacks and captures audio and video files. 
+For a more detailed tutorial of how this works, check out the corresponding cliffnote:
+
+ * [Audio / Video Cliffnotes](http://guides.thecodepath.com/android/Video-and-Audio-Playback-and-Recording).
 
 Features:
 
- * Play a local audio file
- * Stream a remote audio file
- * Capture audio from mic and playback
- * Play a local video
- * Stream a remote video
- * Capture a video using camera and playback
+ * Play a local audio file.
+ * Stream a remote audio file.
+ * Capture audio from mic and playback it back.
+ * Play a local video.
+ * Stream a video file from a remote server.
+ * Capture a video using camera and playback.
  
 Screens:
  
